@@ -1,12 +1,13 @@
 import './App.css';
-import Newcounter from './projects/counter/Newcounter';
+
+import Main from './projects/tour/Main';
 
 
 
 function App() {
   return (
     <div className="App">
-      <Newcounter/>
+      <Main/>
     </div>
   );
 }
