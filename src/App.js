@@ -1,6 +1,6 @@
 import './App.css';
 
-import Main from './projects/tour/Main';
+import Main from './projects/reminder/Main';
 
 
 
